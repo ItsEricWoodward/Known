@@ -35,6 +35,13 @@ IdnoPlugins/IndiePub/
 IdnoPlugins/StaticPages/
 IdnoPlugins/Markdown/
 IdnoPlugins/ApplyToJoin/
+IdnoPlugins/_src/
+IdnoPlugins/Markdown
+IdnoPlugins/FooterJS
+IdnoPlugins/Citations
+IdnoPlugins/Like
+
+Themes/Eric
 
 error_log
 
