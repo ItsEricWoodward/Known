@@ -181,7 +181,7 @@
                     $url = (\Idno\Common\Page::isSSL() ? 'https://' : 'http://') . $_SERVER['SERVER_NAME'];
                     if (!empty($_SERVER['SERVER_PORT'])) {
                         if ($_SERVER['SERVER_PORT'] != 80 && $_SERVER['SERVER_PORT'] != 443) {
-                            $url .= ':' . $_SERVER['SERVER_PORT'];
+//                            $url .= ':' . $_SERVER['SERVER_PORT'];
                         }
                     }
                     if (defined('KNOWN_SUBDIRECTORY')) {
